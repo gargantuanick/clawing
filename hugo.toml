@@ -1,0 +1,4 @@
+baseURL = 'https://gargantuanick.github.io/clawing/'
+languageCode = 'en-us'
+title = 'Clawing - Pet Reviews'
+theme = 'basic'
