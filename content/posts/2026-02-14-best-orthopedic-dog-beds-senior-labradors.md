@@ -14,11 +14,11 @@ As Labradors age, their joints require specialized support that standard fiber-f
 
 | Product | Best For | Foam Type | Link |
 | :--- | :--- | :--- | :--- |
-| **Big Barker 7\"** | Overall Best | Therapeutic | [Check Price]({{AFFILIATE_LINK}}) |
-| **PetFusion Ultimate** | Value | Memory Foam | [Check Price]({{AFFILIATE_LINK}}) |
-| **K9 Ballistics** | Chewers | Solid Foam | [Check Price]({{AFFILIATE_LINK}}) |
-| **Friends Forever** | Support | Human Grade | [Check Price]({{AFFILIATE_LINK}}) |
-| **Casper Dog Bed** | Design | Dual Layer | [Check Price]({{AFFILIATE_LINK}}) |
+| **Big Barker 7\"** | Overall Best | Therapeutic | [Check Price](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20) |
+| **PetFusion Ultimate** | Value | Memory Foam | [Check Price](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20) |
+| **K9 Ballistics** | Chewers | Solid Foam | [Check Price](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20) |
+| **Friends Forever** | Support | Human Grade | [Check Price](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20) |
+| **Casper Dog Bed** | Design | Dual Layer | [Check Price](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20) |
 
 ---
 
@@ -29,7 +29,7 @@ The Big Barker is the gold standard for large breeds. Unlike most "orthopedic" b
 - **What we don't like:** Premium price point.
 - **Who it's for:** Owners who want a "buy it once" solution for a heavy senior Lab.
 
-[Check Current Price on Amazon]({{AFFILIATE_LINK}})
+[Check Current Price on Amazon](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20)
 
 ## 2. PetFusion Ultimate Dog Bed — Best Value
 Featuring 4 inches of solid memory foam, the PetFusion provides a great balance of comfort and support without the Big Barker's price tag.
@@ -38,7 +38,7 @@ Featuring 4 inches of solid memory foam, the PetFusion provides a great balance 
 - **What we don't like:** Bolsters can take up sleeping surface area.
 - **Who it's for:** Labs that like to rest their heads on a pillow (bolster) while sleeping.
 
-[Check Current Price on Chewy]({{AFFILIATE_LINK}})
+[Check Current Price on Chewy](https://www.amazon.com/dp/[ASIN]/?tag=petgearlabs-20)
 
 ---
 
