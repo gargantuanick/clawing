@@ -1,5 +1,4 @@
-baseURL = 'https://gargantuanick.github.io/clawing/'
+baseURL = 'https://petgearlabs.com/'
 languageCode = 'en-us'
-title = 'Clawing - Pet Reviews'
-theme = 'basic'
+title = 'PetGearLabs - Expert Pet Equipment Reviews'
 theme = 'ananke'
