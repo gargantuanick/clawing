@@ -1,0 +1,18 @@
+.read-more-button {
+  background-color: #2563eb;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+.read-more-button:hover {
+  background-color: #1d4ed8;
+}
+.hero-slider {
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
