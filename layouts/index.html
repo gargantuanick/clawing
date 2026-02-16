@@ -1,0 +1,70 @@
+{{ define "main" }}
+<div class="hero-container relative w-100 vh-50 overflow-hidden">
+  <div class="hero-slider absolute w-100 h-100 bg-black">
+    <img id="hero-img" src="/images/big-barker.jpg" class="w-100 h-100 object-cover opacity-80" alt="Pet Gear Labs">
+    <div class="absolute absolute--fill flex flex-column items-center justify-center white">
+      <h1 class="f1-l f2-m f3-ns fw9 ttu tracked white-90 shadow-2">PetGearLabs</h1>
+      <p class="f3-l f4-m f5-ns fw4 white-80">Precision Reviews for Every Breed</p>
+    </div>
+  </div>
+</div>
+
+<main class="mw8 center ph3 pv5">
+  <div class="flex flex-wrap -mx3">
+    {{ range (where .Site.RegularPages "Section" "posts") }}
+    <div class="w-100 w-50-l ph3 mb4">
+      <article class="br3 ba b--black-10 bg-white overflow-hidden shadow-hover transition-all">
+        <div class="pa4">
+          <h2 class="f3 mb2"><a href="{{ .Permalink }}" class="link blue hover-dark-blue">{{ .Title }}</a></h2>
+          <p class="f6 lh-copy gray mb4">{{ .Description | truncate 150 }}</p>
+          <a href="{{ .Permalink }}" class="read-more-button">View Expert Guide</a>
+        </div>
+      </article>
+    </div>
+    {{ end }}
+  </div>
+</main>
+
+<style>
+  .shadow-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  .transition-all { transition: all 0.3s ease; }
+  .object-cover { object-fit: cover; }
+  .vh-50 { height: 50vh; }
+  .read-more-button {
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: white !important;
+    padding: 12px 24px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
+  }
+</style>
+
+<script>
+  const images = [
+    '/images/big-barker.jpg',
+    '/images/petfusion-bed.jpg'
+  ];
+  let current = 0;
+  const heroImg = document.getElementById('hero-img');
+  
+  if (heroImg && images.length > 1) {
+    setInterval(() => {
+      current = (current + 1) % images.length;
+      heroImg.style.opacity = 0;
+      setTimeout(() => {
+        heroImg.src = images[current];
+        heroImg.style.opacity = 0.8;
+      }, 500);
+    }, 5000);
+  }
+</script>
+{{ end }}
