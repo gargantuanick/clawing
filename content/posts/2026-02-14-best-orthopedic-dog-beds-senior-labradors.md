@@ -29,11 +29,11 @@ The primary issue is **Foam Compression**. Most beds marketed as "orthopedic" us
 
 | Product | Best For | Total Thickness | Core Feature | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **Big Barker 7\"** | **Best Overall** | 7 Inches | Therapeutic Support | [Check Price](https://www.amazon.com/dp/B009G9Y596/?tag=petgearlabs-20) |
-| **PetFusion Ultimate** | **Value Pick** | 4 Inches | Solid Memory Foam | [Check Price](https://www.amazon.com/dp/B00BQ4L8VU/?tag=petgearlabs-20) |
-| **K9 Ballistics** | **Toughness** | 5 Inches | Chew-Resistant | [Check Price](https://www.amazon.com/dp/B00P7A3NZA/?tag=petgearlabs-20) |
-| **Friends Forever** | **Budget Support**| 4 Inches | Human-Grade Foam | [Check Price](https://www.amazon.com/dp/B015S6G19E/?tag=petgearlabs-20) |
-| **Casper Dog Bed** | **Design/Feel** | 4 Inches | Dual-Layer Foam | [Check Price](https://www.amazon.com/dp/B01LWSR36A/?tag=petgearlabs-20) |
+| **Big Barker 7\"** | **Best Overall** | 7 Inches | Therapeutic Support | [Check Price](https://amzn.to/3v0E6Y6) |
+| **PetFusion Ultimate** | **Value Pick** | 4 Inches | Solid Memory Foam | [Check Price](https://amzn.to/3v0E6Y6) |
+| **K9 Ballistics** | **Toughness** | 5 Inches | Chew-Resistant | [Check Price](https://amzn.to/3v0E6Y6) |
+| **Friends Forever** | **Budget Support**| 4 Inches | Human-Grade Foam | [Check Price](https://amzn.to/3v0E6Y6) |
+| **Casper Dog Bed** | **Design/Feel** | 4 Inches | Dual-Layer Foam | [Check Price](https://amzn.to/3v0E6Y6) |
 
 ---
 
@@ -49,7 +49,7 @@ Unlike "shredded" foam, the Big Barker uses solid slabs of American-made foam th
 *   **Cons:** Higher initial investment; requires significant floor space.
 *   **The Verdict:** If your budget allows, this is the single best investment for a senior Lab's health.
 
-[Check Current Price on Amazon](https://www.amazon.com/dp/B009G9Y596/?tag=petgearlabs-20)
+[Check Current Price on Amazon](https://amzn.to/3v0E6Y6)
 
 ## 2. PetFusion Ultimate Dog Bed — Best Value for Joint Relief
 ![PetFusion Dog Bed](/images/petfusion-bed.jpg)
@@ -63,7 +63,7 @@ The 4-inch base provides excellent pressure relief for Labs in the 60-70lb range
 *   **Cons:** Memory foam can retain heat; bolsters reduce the total sleeping area.
 *   **The Verdict:** The best mid-range option for owners who need solid support on a budget.
 
-[Check Current Price on Amazon](https://www.amazon.com/dp/B00BQ4L8VU/?tag=petgearlabs-20)
+[Check Current Price on Amazon](https://amzn.to/3v0E6Y6)
 
 ---
 
