@@ -1,0 +1,30 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns mw7 center">
+  <header class="w-100 mt4">
+    <h1 class="f1-l f2-m f3-ns mb3">{{ .Title }}</h1>
+    <time class="f6 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
+  </header>
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
+    {{ .Content }}
+  </div>
+</article>
+<style>
+  a[href*="amazon.com"] {
+    background-color: #2563eb;
+    color: white !important;
+    padding: 12px 24px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s, background-color 0.2s;
+    margin: 10px 0;
+  }
+  a[href*="amazon.com"]:hover {
+    transform: translateY(-2px);
+    background-color: #1d4ed8;
+    color: white !important;
+  }
+</style>
+{{ end }}
