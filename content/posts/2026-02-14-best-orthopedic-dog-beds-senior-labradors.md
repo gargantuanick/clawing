@@ -65,9 +65,21 @@ The 4-inch base provides excellent pressure relief for Labs in the 60-70lb range
 
 [Check Current Price on Amazon](https://www.amazon.com/dp/B00TQ47CPW/?tag=petgearlabs-20)
 
+## 3. K9 Ballistics Tough Orthopedic Dog Bed — Best for "Nesters"
+![K9 Ballistics Chew-Resistant Orthopedic Bed](/images/k9-ballistics.jpg)
+
+For senior Labs that still have a destructive streak or like to scratch before they settle, the K9 Ballistics offers a unique combination of orthopedic support and extreme durability.
+
+*   **Pros:** Proprietary Ripstop ballistic cover; 120-day chew-proof guarantee.
+*   **Cons:** The cover has a "stiffer" feel than microsuede.
+*   **The Verdict:** The top choice for Labs that are rough on their equipment.
+
+[Check Current Price on Amazon](https://www.amazon.com/dp/B00P7A3NZA/?tag=petgearlabs-20)
+
 ---
 
 ## The Science of Foam: Density vs. Durability
+![High-density orthopedic foam layers cross-section](/images/foam-layers.jpg)
 
 When selecting an orthopedic bed, the most critical metric is **Density**, measured in pounds per cubic foot (lb/ft³). 
 
@@ -85,6 +97,9 @@ Labradors carry a significant percentage of their weight in their chest and fron
 
 ### Preventing Elbow Hygromas
 A hygroma is a fluid-filled sac that forms over a joint (usually the elbow) as a protective response to repeated trauma from lying on hard surfaces. High-density orthopedic foam acts as a shock absorber, distributing that frontal weight across a larger surface area and preventing the pressure-induced inflammation that leads to hygromas and bursitis.
+
+### Chemical Off-Gassing and Pet Health: The CertiPUR-US Standard
+Many budget foam beds are manufactured using formaldehyde, phthalates, and heavy metals. Since dogs spend 12-14 hours a day with their noses pressed directly against the bed material, low-VOC (Volatile Organic Compound) foam is essential. Look for the **CertiPUR-US** seal, which ensures the foam is made without ozone depleters and has been tested for indoor air quality. All five beds in this guide meet or exceed these safety standards.
 
 ---
 
