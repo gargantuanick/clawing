@@ -10,12 +10,10 @@
 </article>
 
 <style>
-  /* Mobile-first text handling */
   article { word-wrap: break-word; overflow-wrap: break-word; }
   img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px; }
   
-  /* Modern, compact Amazon buttons */
-  a[href*="amazon.com"], .view-expert-guide {
+  a[href*="amazon.com"] {
     background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: white !important;
     padding: 10px 20px !important;
@@ -26,13 +24,9 @@
     justify-content: center;
     font-weight: 600 !important;
     font-size: 0.9rem !important;
-    text-transform: none !important;
-    letter-spacing: 0 !important;
     box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2) !important;
     transition: all 0.2s ease !important;
     margin: 10px 0 !important;
-    width: auto !important;
-    max-width: 100%;
   }
 
   a[href*="amazon.com"]:hover {
@@ -41,12 +35,10 @@
     background: #1e40af !important;
   }
 
-  /* Fix for table responsiveness on mobile */
   table { 
     display: block; 
     width: 100%; 
     overflow-x: auto; 
-    -webkit-overflow-scrolling: touch; 
     border-collapse: collapse;
     margin-bottom: 2rem;
   }
