@@ -1,30 +1,54 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns mw7 center">
+<article class="pa3 pa4-ns mw7 center overflow-x-hidden">
   <header class="w-100 mt4">
-    <h1 class="f1-l f2-m f3-ns mb3">{{ .Title }}</h1>
+    <h1 class="f2 f1-ns mb3 lh-title">{{ .Title }}</h1>
     <time class="f6 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
   </header>
-  <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
+  <div class="nested-copy-line-height lh-copy serif f5 f4-ns mid-gray mt4">
     {{ .Content }}
   </div>
 </article>
+
 <style>
-  a[href*="amazon.com"] {
-    background-color: #2563eb;
+  /* Mobile-first text handling */
+  article { word-wrap: break-word; overflow-wrap: break-word; }
+  img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px; }
+  
+  /* Modern, compact Amazon buttons */
+  a[href*="amazon.com"], .view-expert-guide {
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
     color: white !important;
-    padding: 12px 24px;
-    border-radius: 50px;
-    text-decoration: none;
-    display: inline-block;
-    font-weight: bold;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    transition: transform 0.2s, background-color 0.2s;
-    margin: 10px 0;
+    padding: 10px 20px !important;
+    border-radius: 6px !important;
+    text-decoration: none !important;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600 !important;
+    font-size: 0.9rem !important;
+    text-transform: none !important;
+    letter-spacing: 0 !important;
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2) !important;
+    transition: all 0.2s ease !important;
+    margin: 10px 0 !important;
+    width: auto !important;
+    max-width: 100%;
   }
+
   a[href*="amazon.com"]:hover {
-    transform: translateY(-2px);
-    background-color: #1d4ed8;
-    color: white !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3) !important;
+    background: #1e40af !important;
+  }
+
+  /* Fix for table responsiveness on mobile */
+  table { 
+    display: block; 
+    width: 100%; 
+    overflow-x: auto; 
+    -webkit-overflow-scrolling: touch; 
+    border-collapse: collapse;
+    margin-bottom: 2rem;
   }
 </style>
 {{ end }}
