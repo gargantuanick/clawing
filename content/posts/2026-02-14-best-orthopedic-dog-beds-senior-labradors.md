@@ -8,7 +8,7 @@ tags: ["Labradors", "Orthopedic Beds", "Senior Pet Care", "Joint Health"]
 
 # The 5 Best Orthopedic Dog Beds for Senior Labradors (2026 Expert Guide)
 
-![Mature Yellow Labrador Retriever resting on a therapeutic dog bed](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Labrador_retriever_yellow_dog.jpg/1024px-Labrador_retriever_yellow_dog.jpg)
+![Mature Yellow Labrador Retriever resting on a therapeutic dog bed](/images/senior-lab.jpg)
 
 For a senior Labrador Retriever, a dog bed is not just a luxury—it is a critical piece of orthopedic medical equipment. Labradors are among the breeds most susceptible to hip dysplasia, elbow dysplasia, and degenerative joint disease (DJD). When a large dog in the 70–100lb range sleeps on a traditional fiber-fill or thin foam bed, their weight causes them to "bottom out," placing direct, painful pressure on their joints against the hard floor.
 
@@ -58,7 +58,7 @@ The Big Barker features a proprietary triple-layer foam construction. The top 2"
 [Check Price on Amazon](https://www.amazon.com/dp/B009G9Y6SS/?tag=petgearlabs-20)
 
 ## 2. PetFusion Ultimate Dog Bed — Best Value for Joint Relief
-![Mature Labrador head resting on bed bolster](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yellow_Labrador_Retriever_2.jpg/800px-Yellow_Labrador_Retriever_2.jpg)
+![Mature Labrador head resting on bed bolster](/images/lab-bolster.jpg)
 
 The PetFusion Ultimate features a 4-inch solid memory foam base, offering a superior balance of price and orthopedic performance.
 
