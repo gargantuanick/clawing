@@ -8,7 +8,7 @@ tags: ["Labradors", "Orthopedic Beds", "Senior Pet Care", "Joint Health"]
 
 # The 5 Best Orthopedic Dog Beds for Senior Labradors (2026 Expert Guide)
 
-![Mature Yellow Labrador Retriever resting on a therapeutic dog bed](https://images.unsplash.com/photo-1541364983171-a8ba01d95cfc?auto=format&fit=crop&q=80&w=1200)
+![Senior Yellow Labrador Retriever resting on a therapeutic dog bed](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Labrador_retriever_yellow_dog.jpg/1024px-Labrador_retriever_yellow_dog.jpg)
 
 For a senior Labrador Retriever, a dog bed is not just a luxury—it is a critical piece of orthopedic medical equipment. Labradors are among the breeds most susceptible to hip dysplasia, elbow dysplasia, and degenerative joint disease (DJD). When a large dog in the 70–100lb range sleeps on a traditional fiber-fill or thin foam bed, their weight causes them to "bottom out," placing direct, painful pressure on their joints against the hard floor.
 
@@ -44,7 +44,7 @@ Large breeds require a higher "loft" to stay elevated. A 7-inch loft is the gold
 ---
 
 ## 1. Big Barker 7" Orthopedic Dog Bed — The Gold Standard
-![Mature Labrador resting on a high-density orthopedic dog bed](https://images.unsplash.com/photo-1541364983171-a8ba01d95cfc?auto=format&fit=crop&q=80&w=800)
+![Senior Labrador resting comfortably on a Big Barker bed](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Labrador_Retriever_%2812104907305%29.jpg/800px-Labrador_Retriever_%2812104907305%29.jpg)
 
 The Big Barker remains the only bed clinically proven by the University of Pennsylvania to reduce joint pain and improve mobility in large breeds.
 
@@ -58,7 +58,7 @@ The Big Barker features a proprietary triple-layer foam construction. The top 2"
 [Check Price on Amazon](https://www.amazon.com/dp/B009G9Y6SS/?tag=petgearlabs-20)
 
 ## 2. PetFusion Ultimate Dog Bed — Best Value for Joint Relief
-![Graying senior dog resting head on bed bolster](https://images.unsplash.com/photo-1554692990-d920de3c2b41?auto=format&fit=crop&q=80&w=800)
+![Mature Labrador head resting on bed bolster](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yellow_Labrador_Retriever_2.jpg/800px-Yellow_Labrador_Retriever_2.jpg)
 
 The PetFusion Ultimate features a 4-inch solid memory foam base, offering a superior balance of price and orthopedic performance.
 
