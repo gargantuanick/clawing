@@ -1,46 +1,40 @@
 {{ define "main" }}
-<article class="pa3 pa4-ns mw7 center overflow-x-hidden">
-  <header class="w-100 mt4">
-    <h1 class="f2 f1-ns mb3 lh-title">{{ .Title }}</h1>
-    <time class="f6 ttu tracked gray">{{ .Date.Format "January 2, 2006" }}</time>
-  </header>
-  <div class="nested-copy-line-height lh-copy serif f5 f4-ns mid-gray mt4">
-    {{ .Content }}
-  </div>
-</article>
+<div class="main-container" style="max-width: 800px; padding-top: 4rem;">
+  <article>
+    <header style="margin-bottom: 3rem; text-align: left; border: none;">
+      <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin: 0 0 1rem;">{{ .Title }}</h1>
+      <time style="color: #6b7280; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em;">{{ .Date.Format "January 2, 2006" }}</time>
+    </header>
+    
+    <div class="content" style="font-size: 1.125rem; color: #374151; line-height: 1.7;">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
 
 <style>
-  article { word-wrap: break-word; overflow-wrap: break-word; }
-  img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px; }
+  .content p { margin-bottom: 1.5rem; }
+  .content h2 { font-size: 1.875rem; font-weight: 700; margin: 3rem 0 1.5rem; color: #111827; }
+  .content h3 { font-size: 1.5rem; font-weight: 700; margin: 2rem 0 1rem; color: #111827; }
+  .content img { max-width: 100%; height: auto; border-radius: 0.75rem; margin: 2rem 0; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+  .content table { width: 100%; border-collapse: collapse; margin: 2rem 0; font-size: 1rem; }
+  .content th { background: #f3f4f6; padding: 0.75rem; text-align: left; border-bottom: 2px solid #e5e7eb; }
+  .content td { padding: 0.75rem; border-bottom: 1px solid #e5e7eb; }
   
-  a[href*="amazon.com"] {
-    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  /* Link to button transformation */
+  .content a[href*="amazon.com"] {
+    display: inline-block;
+    background: #2563eb;
     color: white !important;
-    padding: 10px 20px !important;
-    border-radius: 6px !important;
-    text-decoration: none !important;
-    display: inline-flex !important;
-    align-items: center;
-    justify-content: center;
-    font-weight: 600 !important;
-    font-size: 0.9rem !important;
-    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.2) !important;
-    transition: all 0.2s ease !important;
-    margin: 10px 0 !important;
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0.5rem 0;
+    transition: background 0.2s;
   }
-
-  a[href*="amazon.com"]:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3) !important;
-    background: #1e40af !important;
-  }
-
-  table { 
-    display: block; 
-    width: 100%; 
-    overflow-x: auto; 
-    border-collapse: collapse;
-    margin-bottom: 2rem;
+  .content a[href*="amazon.com"]:hover {
+    background: #1d4ed8;
   }
 </style>
 {{ end }}

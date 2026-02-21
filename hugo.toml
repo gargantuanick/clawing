@@ -1,4 +1,4 @@
 baseURL = 'https://petgearlabs.com/'
 languageCode = 'en-us'
 title = 'PetGearLabs - Expert Pet Equipment Reviews'
-theme = 'ananke'
+# THEME DELETED TO PREVENT OVERWRITES
