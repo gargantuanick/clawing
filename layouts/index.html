@@ -1,40 +1,41 @@
-{{ define "main" }}
-<div style="width: 100%; background: #000; overflow: hidden; display: block !important;">
-  <!-- Hero Section - GENERAL BRANDING -->
-  <div style="width: 100%; height: 500px; position: relative; overflow: hidden;">
-    <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&q=80&w=1200" 
-         style="width: 100% !important; height: 100% !important; object-fit: cover !important; object-position: center 30% !important; display: block !important; filter: none !important; opacity: 0.8;" 
-         alt="PetGearLabs Expert Gear Testing">
-    <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; text-align: center; padding: 20px;">
-      <h1 style="font-family: sans-serif; font-size: clamp(2.5rem, 8vw, 4.5rem); text-transform: uppercase; letter-spacing: 6px; margin: 0; font-weight: 900; text-shadow: 0 4px 20px rgba(0,0,0,0.6);">PetGearLabs</h1>
-      <p style="font-family: serif; font-size: clamp(1rem, 3vw, 1.6rem); margin-top: 15px; font-weight: 400; max-width: 600px; line-height: 1.4; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">Precision-Engineered Reviews for Every Breed & Life Stage.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PetGearLabs - Expert Reviews</title>
+  <style>
+    body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: #fdfdfd; }
+    .hero { width: 100%; height: 500px; background: #111; position: relative; overflow: hidden; }
+    .hero img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
+    .hero-content { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; text-align: center; }
+    .hero h1 { font-size: 4rem; text-transform: uppercase; letter-spacing: 5px; margin: 0; font-weight: 900; }
+    .hero p { font-size: 1.5rem; margin-top: 15px; font-weight: 300; opacity: 0.9; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 80px 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px; }
+    article { background: white; border-radius: 16px; border: 1px solid #f0f0f0; padding: 40px; box-shadow: 0 4px 15px rgba(0,0,0,0.02); }
+    h2 a { color: #111; text-decoration: none; font-size: 1.6rem; }
+    .btn { background: #2563eb; color: white; padding: 14px 28px; border-radius: 8px; text-decoration: none; font-weight: 700; display: inline-block; margin-top: 20px; font-size: 0.9rem; text-transform: uppercase; }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&q=80&w=1200" alt="PetGearLabs">
+    <div class="hero-content">
+      <h1>PetGearLabs</h1>
+      <p>Precision-Engineered Reviews for Every Breed & Life Stage.</p>
     </div>
   </div>
-</div>
-
-<main style="max-width: 1200px; margin: 0 auto; padding: 60px 20px; font-family: sans-serif;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px; margin-bottom: 80px;">
-    {{ range (where .Site.RegularPages "Section" "posts") }}
-    <article style="background: white; border-radius: 20px; border: 1px solid #f0f0f0; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.04); transition: transform 0.3s ease;">
-      <div style="padding: 40px;">
-        <h2 style="font-size: 1.8rem; line-height: 1.2; margin-bottom: 20px;"><a href="{{ .Permalink }}" style="color: #1a1a1a; text-decoration: none;">{{ .Title }}</a></h2>
-        <p style="color: #666; font-size: 1.05rem; line-height: 1.8; margin-bottom: 30px;">{{ .Description | truncate 150 }}</p>
-        <a href="{{ .Permalink }}" style="background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%); color: white !important; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; display: inline-block; box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);">View Expert Guide</a>
-      </div>
-    </article>
-    {{ end }}
-
-    <div style="background: #f8fafc; border-radius: 20px; border: 2px dashed #cbd5e1; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 40px; min-height: 400px;">
-      <div style="font-size: 4rem; margin-bottom: 20px;">🧪</div>
-      <h2 style="font-size: 1.8rem; color: #1e293b; margin-bottom: 15px; font-weight: 800;">Deep Research in Progress!</h2>
-      <p style="color: #64748b; font-size: 1.1rem; line-height: 1.6; max-width: 300px; margin-bottom: 30px;">We're currently field-testing 11 new breed-specific guides. From Frenchie harnesses to Husky cooling mats, the data is coming.</p>
-      
-      <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); width: 100%; max-width: 280px;">
-        <p style="font-weight: 700; color: #2563eb; margin: 0 0 10px 0; font-size: 0.8rem; text-transform: uppercase;">Don't Miss the Drop</p>
-        <p style="font-size: 1.1rem; margin: 0 0 15px 0;">Hit <b>Cmd+D</b> to Bookmark!</p>
-        <div style="font-size: 0.8rem; color: #94a3b8;">Next Guide: French Bulldog Airway Safety</div>
-      </div>
+  <div class="container">
+    <div class="grid">
+      {{ range (where .Site.RegularPages "Section" "posts") }}
+      <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p style="color: #666; line-height: 1.6;">{{ .Description | truncate 150 }}</p>
+        <a href="{{ .Permalink }}" class="btn">View Expert Guide</a>
+      </article>
+      {{ end }}
     </div>
   </div>
-</main>
-{{ end }}
+</body>
+</html>
