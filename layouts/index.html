@@ -1,19 +1,19 @@
 {{ define "main" }}
 <div style="width: 100%; background: #000; overflow: hidden; display: block !important;">
-  <!-- Hero Section - FORCED ABSOLUTE URL -->
+  <!-- Hero Section - GENERAL BRANDING -->
   <div style="width: 100%; height: 500px; position: relative; overflow: hidden;">
-    <img src="https://images.unsplash.com/photo-1551730459-92db2a308d6a?auto=format&fit=crop&q=80&w=1200" 
-         style="width: 100% !important; height: 100% !important; object-fit: cover !important; object-position: center 20% !important; display: block !important; filter: none !important; opacity: 0.8;" 
-         alt="Expert Senior Labrador Care">
+    <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&q=80&w=1200" 
+         style="width: 100% !important; height: 100% !important; object-fit: cover !important; object-position: center 30% !important; display: block !important; filter: none !important; opacity: 0.8;" 
+         alt="PetGearLabs Expert Gear Testing">
     <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; text-align: center; padding: 20px;">
       <h1 style="font-family: sans-serif; font-size: clamp(2.5rem, 8vw, 4.5rem); text-transform: uppercase; letter-spacing: 6px; margin: 0; font-weight: 900; text-shadow: 0 4px 20px rgba(0,0,0,0.6);">PetGearLabs</h1>
-      <p style="font-family: serif; font-size: clamp(1rem, 3vw, 1.6rem); margin-top: 15px; font-weight: 400; max-width: 600px; line-height: 1.4; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">Precision-Engineered Reviews for Your Best Friend's Golden Years.</p>
+      <p style="font-family: serif; font-size: clamp(1rem, 3vw, 1.6rem); margin-top: 15px; font-weight: 400; max-width: 600px; line-height: 1.4; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">Precision-Engineered Reviews for Every Breed & Life Stage.</p>
     </div>
   </div>
 </div>
 
 <main style="max-width: 1200px; margin: 0 auto; padding: 60px 20px; font-family: sans-serif;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px; margin-bottom: 80px;">
     {{ range (where .Site.RegularPages "Section" "posts") }}
     <article style="background: white; border-radius: 20px; border: 1px solid #f0f0f0; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.04); transition: transform 0.3s ease;">
       <div style="padding: 40px;">
