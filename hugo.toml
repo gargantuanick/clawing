@@ -1,6 +1,7 @@
 baseURL = 'https://petgearlabs.com/'
 languageCode = 'en-us'
 title = 'PetGearLabs - Expert Pet Equipment Reviews'
+theme = 'ananke'
 
 [params]
   description = "Precision-Engineered Reviews for Every Breed & Life Stage. Specialized gear guides for Huskies, French Bulldogs, Labradors, and more."
