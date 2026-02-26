@@ -1,4 +1,14 @@
 baseURL = 'https://petgearlabs.com/'
 languageCode = 'en-us'
 title = 'PetGearLabs - Expert Pet Equipment Reviews'
-# THEME DELETED TO PREVENT OVERWRITES
+
+[params]
+  description = "Precision-Engineered Reviews for Every Breed & Life Stage. Specialized gear guides for Huskies, French Bulldogs, Labradors, and more."
+  googleAnalytics = "G-18VK32744B"
+  twitterHandle = "@PetGearLabs"
+  images = ["/images/og-default.jpg"]
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
