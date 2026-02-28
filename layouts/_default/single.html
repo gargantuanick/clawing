@@ -37,4 +37,14 @@
     background: #1d4ed8;
   }
 </style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const links = document.querySelectorAll('.content a[href*="amazon.com"]');
+    links.forEach(link => {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer sponsored');
+    });
+  });
+</script>
 {{ end }}
