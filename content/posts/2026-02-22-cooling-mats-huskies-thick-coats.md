@@ -30,10 +30,10 @@ A Husky's coat is so efficient that external "cool air" from a fan often doesn't
 
 | Product | Best For | Tech Type | Link |
 | :--- | :--- | :--- | :--- |
-| **The Green Pet Shop** | **Durability** | Pressure-Activated | [Check Price](https://www.amazon.com/dp/B0047WCC9E/?tag=petgearlabs-20) |
-| **Arf Pets Pad** | **Thermal Longevity**| Solid Cooling Gel | [Check Price](https://www.amazon.com/dp/B00V6H0B5E/?tag=petgearlabs-20) |
-| **Coolaroo Elevated** | **Airflow** | Breathable Mesh | [Check Price](https://www.amazon.com/dp/B00164YF6C/?tag=petgearlabs-20) |
-| **K&H Pet Products** | **Outdoor Use** | Water-Bolstered | [Check Price](https://www.amazon.com/dp/B00403MW9G/?tag=petgearlabs-20) |
+| **The Green Pet Shop** | **Durability** | Pressure-Activated | [Check Price](https://www.amazon.com/dp/B006NOO440/?tag=petgearlabs-20) |
+| **Arf Pets Pad** | **Thermal Longevity**| Solid Cooling Gel | [Check Price](https://www.amazon.com/dp/B0192CJO30/?tag=petgearlabs-20) |
+| **Coolaroo Elevated** | **Airflow** | Breathable Mesh | [Check Price](https://www.amazon.com/dp/B000P7JKD6/?tag=petgearlabs-20) |
+| **K&H Pet Products** | **Outdoor Use** | Water-Bolstered | [Check Price](https://www.amazon.com/dp/B003KK60R4/?tag=petgearlabs-20) |
 
 ---
 
@@ -49,7 +49,7 @@ The mat contains a non-toxic gel that is activated by the dog's weight. When a H
 *   **Cons:** Not meant for direct sunlight (which degrades the gel).
 *   **The Verdict:** The most reliable option for indoor Husky cooling.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B0047WCC9E/?tag=petgearlabs-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B006NOO440/?tag=petgearlabs-20)
 
 ---
 

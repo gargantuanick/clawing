@@ -32,11 +32,11 @@ To be considered "respiratory-safe," a harness must:
 
 | Product | Best For | Material | Link |
 | :--- | :--- | :--- | :--- |
-| **BullHug Harness** | **Breed Specific** | No-Pull Mesh | [Check Price](https://www.amazon.com/dp/B08T222NCG/?tag=petgearlabs-20) |
-| **Voyager Step-In** | **Easy Entry** | Air Mesh | [Check Price](https://www.amazon.com/dp/B00M0V7R08/?tag=petgearlabs-20) |
-| **Ruffwear Front Range** | **Hiking/Active** | Padded Foam | [Check Price](https://www.amazon.com/dp/B01N109Y1B/?tag=petgearlabs-20) |
-| **Blueberry Pet Step-In** | **Budget Choice** | Lightweight Nylon| [Check Price](https://www.amazon.com/dp/B00H7R6DOG/?tag=petgearlabs-20) |
-| **Julius-K9 IDC** | **Control/Service**| Professional Grade | [Check Price](https://www.amazon.com/dp/B004W7E2T8/?tag=petgearlabs-20) |
+| **BullHug Harness** | **Breed Specific** | No-Pull Mesh | [Check Price](https://www.amazon.com/dp/B08T228C44/?tag=petgearlabs-20) |
+| **Voyager Step-In** | **Easy Entry** | Air Mesh | [Check Price](https://www.amazon.com/dp/B0171MQW56/?tag=petgearlabs-20) |
+| **Ruffwear Front Range** | **Hiking/Active** | Padded Foam | [Check Price](https://www.amazon.com/dp/B01N10INNX/?tag=petgearlabs-20) |
+| **Blueberry Pet Step-In** | **Budget Choice** | Lightweight Nylon| [Check Price](https://www.amazon.com/dp/B073W95V9G/?tag=petgearlabs-20) |
+| **Julius-K9 IDC** | **Control/Service**| Professional Grade | [Check Price](https://www.amazon.com/dp/B004IEDMQ8/?tag=petgearlabs-20) |
 
 ---
 
@@ -52,7 +52,7 @@ The V-neck design ensures that even if the dog pulls, the tension is distributed
 *   **Cons:** Heavier than simple mesh vests.
 *   **The Verdict:** The best overall choice for Frenchie owners concerned about airway safety.
 
-[Check Price on Amazon](https://www.amazon.com/dp/B08T222NCG/?tag=petgearlabs-20)
+[Check Price on Amazon](https://www.amazon.com/dp/B08T228C44/?tag=petgearlabs-20)
 
 ---
 
