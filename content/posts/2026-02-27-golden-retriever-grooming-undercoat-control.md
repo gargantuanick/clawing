@@ -1,6 +1,7 @@
 ---
 title: "The Ultimate Golden Retriever Grooming Kit: Controlling the Undercoat Blow (2026 Guide)"
 date: 2026-02-27T11:00:00+01:00
+cover_image: "/images/covers/golden-retriever.jpg"
 description: "Expert grooming strategies for Golden Retrievers. We review the best undercoat rakes, slicker brushes, and de-shedding tools to manage heavy double-coat shedding."
 tags: ["Golden Retriever", "Grooming", "Shedding", "Gear Review"]
 ---

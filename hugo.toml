@@ -4,10 +4,12 @@ title = 'PetGearLabs - Expert Pet Equipment Reviews'
 theme = 'ananke'
 
 [params]
-  description = "Precision-Engineered Reviews for Every Breed & Life Stage. Specialized gear guides for Huskies, French Bulldogs, Labradors, and more."
+  description = "Breed-specific dog gear reviews tested by experts. Guides for Huskies, French Bulldogs, Labradors, German Shepherds, and more."
   googleAnalytics = "G-18VK32744B"
   twitterHandle = "@PetGearLabs"
   images = ["/images/og-default.jpg"]
+  authorName = "PetGearLabs Editorial Team"
+  authorBio = "Our team of dog owners, breed specialists, and gear testers evaluate every product against breed-specific criteria — anatomy, health conditions, coat type, and life stage. We don't recommend gear we wouldn't use on our own dogs."
 
 [sitemap]
   changefreq = 'weekly'

@@ -1,6 +1,7 @@
 ---
 title: "The Best Back-Support Harnesses for Dachshunds (2026 IVDD Guide)"
 date: 2026-02-27T13:00:00+01:00
+cover_image: "/images/covers/dachshund.jpg"
 description: "Expert review of spinal-safe harnesses for Dachshunds. We analyze the best gear for preventing Intervertebral Disc Disease (IVDD) and providing lift support."
 tags: ["Dachshund", "IVDD", "Harness Review", "Spinal Health"]
 ---
