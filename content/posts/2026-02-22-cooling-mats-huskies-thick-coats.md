@@ -1,6 +1,7 @@
 ---
 title: "The 5 Best Cooling Mats for Thick-Coated Huskies (2026 Heat Guide)"
 date: 2026-02-22
+cover_image: "/images/covers/husky.jpg"
 description: "Reviewing pressure-activated cooling mats for Siberian Huskies. We analyze thermal conductivity and scratch-resistance for heavy double-coated breeds."
 categories: ["Dog Gear", "Huskies"]
 tags: ["Huskies", "Cooling Mats", "Summer Safety", "Double Coat Care"]

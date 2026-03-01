@@ -1,6 +1,7 @@
 ---
 title: "The Great Dane Feeding Guide: Elevated Bowls, Bloat Prevention, and Safety (2026)"
 date: 2026-02-27T12:00:00+01:00
+cover_image: "/images/covers/great-dane.jpg"
 description: "Expert analysis of Great Dane feeding gear. We explore the debate over elevated feeders, slow-feeders for bloat prevention, and essential safety tips for giant breeds."
 tags: ["Great Dane", "Feeding", "Bloat", "Giant Breeds", "Gear Review"]
 ---

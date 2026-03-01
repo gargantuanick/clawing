@@ -1,6 +1,7 @@
 ---
 title: "The Best Harnesses for French Bulldogs with Breathing Issues (2026 BOAS Guide)"
 date: 2026-02-22
+cover_image: "/images/covers/french-bulldog.jpg"
 description: "Expert review of respiratory-safe harnesses for French Bulldogs. We analyze neck-free designs to manage Brachycephalic Obstructive Airway Syndrome (BOAS)."
 categories: ["Dog Gear", "French Bulldogs"]
 tags: ["Frenchies", "Harnesses", "BOAS", "Respiratory Health"]

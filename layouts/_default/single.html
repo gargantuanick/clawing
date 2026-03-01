@@ -3,12 +3,25 @@
   <article>
     <header style="margin-bottom: 3rem; text-align: left; border: none;">
       <h1 style="font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin: 0 0 1rem;">{{ .Title }}</h1>
-      <time style="color: #6b7280; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em;">{{ .Date.Format "January 2, 2006" }}</time>
+      <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
+        <time style="color: #6b7280; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em;">{{ .Date.Format "January 2, 2006" }}</time>
+        {{ with .Site.Params.authorName }}
+        <span style="color: #6b7280; font-size: 0.875rem;">Reviewed by <strong style="color: #374151;">{{ . }}</strong></span>
+        {{ end }}
+      </div>
     </header>
-    
+
     <div class="content" style="font-size: 1.125rem; color: #374151; line-height: 1.7;">
       {{ .Content }}
     </div>
+
+    <!-- Author / E-E-A-T strip -->
+    {{ with .Site.Params.authorName }}
+    <div style="margin-top: 4rem; padding: 2rem; background: #f9fafb; border-radius: 1rem; border: 1px solid #e5e7eb;">
+      <p style="margin: 0 0 0.5rem; font-weight: 700; color: #111827; font-size: 1rem;">About the Reviewer</p>
+      <p style="margin: 0; color: #4b5563; font-size: 0.9375rem; line-height: 1.6;">{{ $.Site.Params.authorBio }}</p>
+    </div>
+    {{ end }}
   </article>
 </div>
 
@@ -20,7 +33,7 @@
   .content table { width: 100%; border-collapse: collapse; margin: 2rem 0; font-size: 1rem; }
   .content th { background: #f3f4f6; padding: 0.75rem; text-align: left; border-bottom: 2px solid #e5e7eb; }
   .content td { padding: 0.75rem; border-bottom: 1px solid #e5e7eb; }
-  
+
   /* Link to button transformation */
   .content a[href*="amazon.com"] {
     display: inline-block;

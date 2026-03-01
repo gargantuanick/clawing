@@ -1,6 +1,7 @@
 ---
 title: "The Best Orthopedic Support Gear for German Shepherds (2026 Hip Health Guide)"
 date: 2026-02-27T10:00:00+01:00
+cover_image: "/images/covers/german-shepherd.jpg"
 description: "Expert review of mobility gear and orthopedic support for German Shepherds. We analyze hip braces, clinical-grade beds, and accessibility ramps for GSD hip dysplasia."
 tags: ["German Shepherd", "Orthopedic", "Hip Dysplasia", "Gear Review"]
 ---

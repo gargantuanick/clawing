@@ -1,6 +1,7 @@
 ---
 title: "The 5 Best Orthopedic Dog Beds for Senior Labradors (2026 Expert Guide)"
 date: 2026-02-14
+cover_image: "/images/actual-yellow-lab-v1.jpg"
 description: "A 2,000-word deep dive into medical-grade orthopedic support for aging Labradors. We analyze foam density, joint health, and long-term durability for 70lb+ breeds."
 categories: ["Dog Gear", "Senior Dogs"]
 tags: ["Labradors", "Orthopedic Beds", "Senior Pet Care", "Joint Health"]

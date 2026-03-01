@@ -1,6 +1,7 @@
 ---
 title: "The Beagle Escape-Proof Guide: Best GPS Tracking Collars for Hounds (2026)"
 date: 2026-02-27T14:00:00+01:00
+cover_image: "/images/covers/beagle.jpg"
 description: "Expert review of GPS tracking collars for Beagles. We analyze the best escape-proof gear for scent-driven hounds, including cellular and satellite tracking options."
 tags: ["Beagle", "GPS Tracking", "Escape Proof", "Hounds", "Gear Review"]
 ---
