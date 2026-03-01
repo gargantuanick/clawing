@@ -4,6 +4,7 @@ date: 2026-02-27T10:00:00+01:00
 cover_image: "/images/covers/german-shepherd.jpg"
 description: "Expert review of mobility gear and orthopedic support for German Shepherds. We analyze hip braces, clinical-grade beds, and accessibility ramps for GSD hip dysplasia."
 tags: ["German Shepherd", "Orthopedic", "Hip Dysplasia", "Gear Review"]
+amazon_asin: "B009G9Y6SS"
 ---
 
 German Shepherds are globally renowned for their loyalty and athleticism, but the breed's unique skeletal structure makes them highly susceptible to **Hip Dysplasia** and **Degenerative Myelopathy**. For a GSD owner, "support gear" isn't a luxury—it's a clinical necessity to extend your dog's mobile years.

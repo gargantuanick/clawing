@@ -5,6 +5,7 @@ cover_image: "/images/covers/french-bulldog.jpg"
 description: "Expert review of respiratory-safe harnesses for French Bulldogs. We analyze neck-free designs to manage Brachycephalic Obstructive Airway Syndrome (BOAS)."
 categories: ["Dog Gear", "French Bulldogs"]
 tags: ["Frenchies", "Harnesses", "BOAS", "Respiratory Health"]
+amazon_asin: "B08T228C44"
 ---
 
 # The Best Harnesses for French Bulldogs with Breathing Issues (2026 BOAS Guide)
@@ -68,5 +69,9 @@ A harness that covers too much surface area acts like an insulator, trapping hea
 
 ## Maintenance & Sourcing
 Always measure your Frenchie's girth at the widest part of the ribcage. A harness that is too loose will rub and cause "hot spots," while one that is too tight will restrict the already limited lung expansion.
+
+### Related Lab Research:
+*   [The 5 Best Orthopedic Dog Beds for Senior Labradors (2026)](/posts/2026-02-14-best-orthopedic-dog-beds-senior-labradors/) — Essential for older Frenchies prone to joint stiffness.
+*   [The Best Back-Support Harnesses for Dachshunds](/posts/2026-02-27-dachshund-ivdd-harness-guide/) — Advanced spinal safety for long-backed breeds.
 
 *Disclosure: As an Amazon Associate, I earn from qualifying purchases. Our recommendations are based on veterinary-standard respiratory health data.*
