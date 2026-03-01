@@ -1,15 +1,22 @@
-<section class="newsletter-section" style="background: #f3f4f6; padding: 4rem 1.5rem; border-top: 1px solid #e5e7eb; text-align: center;">
-  <div style="max-width: 600px; margin: 0 auto;">
-    <h2 style="font-size: 1.875rem; font-weight: 800; color: #111827; margin-bottom: 1rem;">Join the Lab</h2>
-    <p style="color: #4b5563; margin-bottom: 2rem;">Get breed-specific gear alerts and clinical-grade equipment reviews delivered to your inbox.</p>
-    
-    <form name="newsletter" method="POST" data-netlify="true" netlify-honeypot="bot-field" style="display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center;">
-      <p class="hidden" style="display:none;">
-        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
-      </p>
-      <input type="email" name="email" placeholder="Your email address" required style="padding: 0.75rem 1rem; border: 1px solid #d1d5db; border-radius: 0.5rem; flex: 1; min-width: 250px; font-size: 1rem;">
-      <button type="submit" class="btn" style="border: none; cursor: pointer;">Subscribe</button>
-    </form>
-    <p style="font-size: 0.75rem; color: #9ca3af; margin-top: 1rem;">Zero spam. Just technical pet gear data.</p>
-  </div>
+<!-- Join the Lab — Newsletter Signup -->
+<section style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 80px 20px; text-align: center;">
+    <div style="max-width: 600px; margin: 0 auto;">
+        <h2
+            style="color: #ffffff; font-size: 2.25rem; font-weight: 800; margin: 0 0 0.75rem; letter-spacing: -0.025em;">
+            Join the Lab</h2>
+        <p style="color: #94a3b8; font-size: 1.05rem; line-height: 1.7; margin: 0 0 2rem;">Get breed-specific gear
+            alerts and clinical-grade equipment reviews delivered to your inbox.</p>
+        <form action="https://buttondown.com/api/emails/embed-subscribe/petgearlabs" method="post" target="popupwindow"
+            onsubmit="window.open('https://buttondown.com/petgearlabs', 'popupwindow')"
+            style="display: flex; gap: 12px; max-width: 500px; margin: 0 auto; flex-wrap: wrap; justify-content: center;">
+            <input type="email" name="email" placeholder="Your email address" required
+                style="flex: 1; min-width: 240px; padding: 16px 20px; border: 2px solid #334155; border-radius: 10px; background: #1e293b; color: #f1f5f9; font-size: 1rem; outline: none; transition: border-color 0.2s;"
+                onfocus="this.style.borderColor='#D4860A'" onblur="this.style.borderColor='#334155'">
+            <button type="submit"
+                style="padding: 16px 32px; background: #D4860A; color: white; border: none; border-radius: 10px; font-weight: 700; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; cursor: pointer; transition: background 0.2s, transform 0.2s; box-shadow: 0 4px 15px rgba(212, 134, 10, 0.3);"
+                onmouseover="this.style.background='#b8720a'; this.style.transform='translateY(-2px)'"
+                onmouseout="this.style.background='#D4860A'; this.style.transform='translateY(0)'">Subscribe</button>
+        </form>
+        <p style="color: #475569; font-size: 0.8rem; margin-top: 1.25rem;">Zero spam. Just technical pet gear data.</p>
+    </div>
 </section>
