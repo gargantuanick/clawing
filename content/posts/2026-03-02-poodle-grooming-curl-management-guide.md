@@ -4,7 +4,7 @@ date: 2026-03-02T14:00:00+01:00
 description: "Expert poodle grooming guide. We review skin-sensitive slicker brushes, high-velocity dryers, and dematting tools for Standard, Miniature, and Toy Poodles."
 tags: ["Poodle", "Grooming", "Shedding", "Curly Coat", "Gear Review"]
 amazon_asin: "B00KAJQJ74"
-cover_image: "/images/covers/poodle.jpg"
+cover_image: "/images/covers/golden-retriever.jpg"
 ---
 
 Poodles are celebrated for their non-shedding coats, but this "hypoallergenic" trait comes with a technical challenge: the hair never stops growing and is highly prone to painful matting. Without a disciplined grooming protocol, a Poodle’s coat can become a felted mess that restricts movement and traps moisture against the skin.
