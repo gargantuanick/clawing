@@ -4,6 +4,7 @@ date: 2026-03-02T16:00:00+01:00
 description: "Expert pug care guide. We review facial fold hygiene wipes, specialized cooling vests, and respiratory-safe gear to manage Pug health and overheating risks."
 tags: ["Pug", "Hygiene", "Cooling", "BOAS", "Gear Review"]
 amazon_asin: "B0002AR0I8"
+cover_image: "/images/covers/pug.jpg"
 ---
 
 Pugs are among the most affectionate breeds, but their extreme brachycephalic (flat-faced) features and deep skin folds require specialized mechanical care. For a Pug owner, hygiene and thermoregulation are not just "grooming" tasks—they are critical life-support activities.
